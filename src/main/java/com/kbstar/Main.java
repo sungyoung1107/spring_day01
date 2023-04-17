@@ -9,7 +9,7 @@ public class Main {
         System.out.printf("Hello and welcome!");
         int a = 10;
         int b = 20;
-        int c = 30;
+        int c = 30; // 주석을 달아보자
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
 
